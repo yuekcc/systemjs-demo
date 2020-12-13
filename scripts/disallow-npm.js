@@ -1,3 +1,7 @@
+// a script rollup plugins repo
+// https://github.com/rollup/plugins/blob/master/scripts/disallow-npm.js
+// MIT License
+//
 const agent = process.env.npm_config_user_agent;
 const { error } = console;
 
