@@ -1,0 +1,17 @@
+{
+  "name": "systemjs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node scripts/disallow-npm.js",
+    "serve": "sirv public -D",
+    "release": "sh release.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sirv-cli": "^1.0.10"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "appA",
+    "url": "/app-a.js"
+  },
+  {
+    "name": "appB",
+    "url": "/app-b.js"
+  },
+  {
+    "name": "appC",
+    "url": "/app-c.js"
+  }
+]

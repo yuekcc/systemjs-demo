@@ -1,0 +1,16 @@
+{
+  "name": "app-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollup.config.js",
+  "scripts": {
+    "build": "rollup -c",
+    "release": "cp dist/index.js ../../public/app-a.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^2.34.2"
+  }
+}
